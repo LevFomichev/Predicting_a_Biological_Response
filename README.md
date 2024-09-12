@@ -1,6 +1,6 @@
 ![image](https://chydo-deti.ru/wp-content/uploads/2020/11/pyelonephritis_1024x683.jpg)
 
-# Predicting-a-Biological-Response
+# Predicting a Biological Response
 ## Прогнозирование биологической реакции молекул на основе их химических свойств
 
 ### Описание проекта
